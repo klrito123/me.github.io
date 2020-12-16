@@ -1,76 +1,76 @@
 <Config>
-    <副本>
-        <哈里拉>
-            <下水道>
-                <入口 X="19332" Y="8515" Z="199" Type="M"/>
-                <复活点 X="439" Y="300" Z="153" Type="A"/>
-                <梅吉亚 X="570" Y="265" Z="145" Type="A"/>
-                <图希安 X="605" Y="365" Z="150" Type="A"/>
-                <阿克米特 X="605" Y="445" Z="150" Type="A"/>
-            </下水道>
-            <农场 X="20024" Y="12774" Z="137">
-                <入口  X="20024" Y="12774" Z="137" Type="M"/>
-                <复活点 X="570" Y="486" Z="137" Type="A"/>
-                <腐烂肉瘤 X="620" Y="595" Z="135" Type="A"/>
-                <蓓拉尔 X="775" Y="630" Z="148" Type="A"/>
-                <马尔斯 X="750" Y="680" Z="140" Type="A"/>
-            </农场>
-            <毁灭之源 X="26864" Y="9043" Z="774">
-                <入口 X="26864" Y="9043" Z="774" Type="M"/>
-                <复活点 X="899" Y="840" Z="194" Type="A"/>
-                <卡里姆 X="574" Y="840" Z="183" Type="A"/>
-                <斯普里根 X="198" Y="714" Z="181" Type="A"/>
-                <萨拉努斯 X="356" Y="508" Z="174" Type="A"/>
-                <梅塔莫杰 X="650" Y="415" Z="114" Type="A"/>
-            </毁灭之源>
-        </哈里拉>
-        <诺伊亚>
-            <废矿>
-                <入口 X="11361" Y="13131" Z="144" Type="M"/>
-                <复活点 X="0" Y="0" Z="0" Type="A"/>
-                <涅尔塔 X="505" Y="350" Z="167" Type="A"/>
-                <麦奇 X="600" Y="406" Z="168" Type="A"/>
-                <奥卡陪 X="615" Y="560" Z="135" Type="A"/>
-            </废矿>
-            <武器库>
-                <入口 X="15682" Y="12588" Z="167" Type="M"/>
-                <复活点 X="0" Y="0" Z="0" Type="A"/>
-                <肖普 X="205" Y="150" Z="20" Type="A"/>
-                <温特斯 X="190" Y="220" Z="20" Type="A"/>
-                <希尔慕斯 X="240" Y="305" Z="20" Type="A"/>
-            </武器库>
-            <呼啸深渊 >
-                <入口 X="7796" Y="10321" Z="250" Type="M"/>
-                <复活点 X="695" Y="725" Z="185" Type="A"/>
-                <巴依普洛斯 X="660" Y="600" Z="197" Type="A"/>
-                <戈弗雷 X="520" Y="490" Z="190" Type="A"/>
-                <卡雷尔 X="347" Y="526" Z="172" Type="A"/>
-                <穆苏佩罗萨的幻影 X="390" Y="570" Z="170" Type="A"/>
-                <穆苏佩罗萨 X="470" Y="650" Z="170" Type="A"/>
-            </呼啸深渊>
-        </诺伊亚>
-        <原大陆>
-            <烟飨之庭 >
-                <入口 X="19480" Y="27263" Z="132" Type="M"/>
+    <Dungeons Name="副本">
+        <Haranya Name="哈里拉">
+            <Dungeon Name="王宫下水道">
+                <Coordinate Name="副本入口" X="19332" Y="8515" Z="199" Type="M"/>
+                <Coordinate Name="复活点" X="439" Y="300" Z="153" Type="A"/>
+                <Coordinate Name="梅吉亚" X="570" Y="265" Z="145" Type="A"/>
+                <Coordinate Name="图希安" X="605" Y="365" Z="150" Type="A"/>
+                <Coordinate Name="阿克米特" X="605" Y="445" Z="150" Type="A"/>
+            </Dungeon>
+            <Dungeon Name="哈迪尔农场">
+                <Coordinate Name="副本入口"  X="20024" Y="12774" Z="137" Type="M"/>
+                <Coordinate Name="复活点" X="570" Y="486" Z="137" Type="A"/>
+                <Coordinate Name="腐烂肉瘤" X="620" Y="595" Z="135" Type="A"/>
+                <Coordinate Name="蓓拉尔" X="775" Y="630" Z="148" Type="A"/>
+                <Coordinate Name="马尔斯" X="750" Y="680" Z="140" Type="A"/>
+            </Dungeon>
+            <Dungeon Name="毁灭之源">
+                <Coordinate Name="副本入口" X="26864" Y="9043" Z="774" Type="M"/>
+                <Coordinate Name="复活点" X="899" Y="840" Z="194" Type="A"/>
+                <Coordinate Name="卡里姆" X="574" Y="840" Z="183" Type="A"/>
+                <Coordinate Name="斯普里根" X="198" Y="714" Z="181" Type="A"/>
+                <Coordinate Name="萨拉努斯" X="356" Y="508" Z="174" Type="A"/>
+                <Coordinate Name="梅塔莫杰" X="650" Y="415" Z="114" Type="A"/>
+            </Dungeon>
+        </Haranya>
+        <Nuia Name="诺伊亚">
+            <Dungeon Name="风刃废矿">
+                <Coordinate Name="副本入口 "X="11361" Y="13131" Z="144" Type="M"/>
+                <Coordinate Name="复活点" X="0" Y="0" Z="0" Type="A"/>
+                <Coordinate Name="涅尔塔" X="505" Y="350" Z="167" Type="A"/>
+                <Coordinate Name="麦奇" X="600" Y="406" Z="168" Type="A"/>
+                <Coordinate Name="奥卡陪" X="615" Y="560" Z="135" Type="A"/>
+            </Dungeon>
+            <Dungeon Name="燃烧之城武器库">
+                <Coordinate Name="副本入口" X="15682" Y="12588" Z="167" Type="M"/>
+                <Coordinate Name="复活点" X="0" Y="0" Z="0" Type="A"/>
+                <Coordinate Name="肖普" X="205" Y="150" Z="20" Type="A"/>
+                <Coordinate Name="温特斯" X="190" Y="220" Z="20" Type="A"/>
+                <Coordinate Name="希尔慕斯" X="240" Y="305" Z="20" Type="A"/>
+            </Dungeon>
+            <Dungeon Name="呼啸深渊">
+                <Coordinate Name="副本入口" X="7796" Y="10321" Z="250" Type="M"/>
+                <Coordinate Name="复活点" X="695" Y="725" Z="185" Type="A"/>
+                <Coordinate Name="巴依普洛斯" X="660" Y="600" Z="197" Type="A"/>
+                <Coordinate Name="戈弗雷" X="520" Y="490" Z="190" Type="A"/>
+                <Coordinate Name="卡雷尔" X="347" Y="526" Z="172" Type="A"/>
+                <Coordinate Name="穆苏佩罗萨的幻影" X="390" Y="570" Z="170" Type="A"/>
+                <Coordinate Name="穆苏佩罗萨" X="470" Y="650" Z="170" Type="A"/>
+            </Dungeon>
+        </Nuia>
+        <Auroria Name="原大陆">
+            <Dungeon Name="烟飨之庭">
+                <副本入口 X="19480" Y="27263" Z="132" Type="M"/>
                 <复活点 X="1030" Y="1005" Z="387" Type="A"/>
                 <饕餮 X="1730" Y="1780" Z="355" Type="A"/>
                 <白娘子 X="250" Y="250" Z="360" Type="A"/>
                 <阿丽亚 X="220" Y="1820" Z="366" Type="A"/>
                 <伊修达尔 X="960" Y="2750" Z="350" Type="A"/>
-            </烟飨之庭>
-            <娜刹什伽尔>
-                <入口  X="23039" Y="25848" Z="140" Type="M"/>
+            </Dungeon>
+            <Dungeon Name="娜刹什伽尔">
+                <副本入口  X="23039" Y="25848" Z="140" Type="M"/>
                 <复活点 X="360" Y="380" Z="152" Type="A"/>
                 <贝瑞 X="1110" Y="390" Z="151" Type="A"/>
                 <法师 X="900" Y="600" Z="140" Type="A"/>
                 <战士 X="890" Y="860" Z="140" Type="A"/>
                 <弓手 X="660" Y="850" Z="140" Type="A"/>
                 <巴尔基 X="1130" Y="620" Z="115" Type="A"/>
-            </娜刹什伽尔>
-            <无限>
+            </Dungeon>
+            <Dungeon Name="诺尔耶无限大战">
                 <入口 X="443" Y="424" Z="127" Type="A"/>
-            </无限>
-        </原大陆>
+            </Dungeon>
+        </Auroria>
     </副本>
     <活动>
         <哈里拉>
