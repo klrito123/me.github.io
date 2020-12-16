@@ -26,7 +26,7 @@
         </Haranya>
         <Nuia Name="诺伊亚">
             <Dungeon Name="风刃废矿">
-                <Coordinate Name="副本入口 "X="11361" Y="13131" Z="144" Type="M"/>
+                <Coordinate Name="副本入口" X="11361" Y="13131" Z="144" Type="M"/>
                 <Coordinate Name="复活点" X="0" Y="0" Z="0" Type="A"/>
                 <Coordinate Name="涅尔塔" X="505" Y="350" Z="167" Type="A"/>
                 <Coordinate Name="麦奇" X="600" Y="406" Z="168" Type="A"/>
